@@ -1,0 +1,48 @@
+.container{
+    margin-bottom:100px;
+}
+.carousel-row{
+    background-color: #FEEAE9;
+    border-radius: 9px;
+    padding: 10px 30px;
+}
+.btn-now{
+    padding:10px 30px;
+    color: #fff;
+    background-image: linear-gradient(to bottom, #ff589f 0%,#ff589f 100%);
+    border:none;
+    border-radius: 5px;
+}
+.price{
+    color: #ff136f;
+}
+.cat1{
+    background-color: chartreuse;
+}
+.cat2{
+    background-color: darkblue;
+}
+.cat3{
+    background-color: darkturquoise;
+}
+.cat1, .cat2, .cat3{
+    border-radius: 10px;
+    color: #fff;
+    padding: 10px 30px;
+}
+.cat1 img, .cat2 img,  .cat3 img{
+    width:100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.let h6{
+    color: gray;
+}
+#service{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
